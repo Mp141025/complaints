@@ -112,7 +112,7 @@
 %pip install entrypoints==0.2.3
 %pip install enum34==1.1.6
 %pip install ephem==3.7.6.0
-%pip install essentia==2.1b5.dev532
+# %pip install essentia==2.1b5.dev532
 %pip install et-xmlfile==1.0.1
 %pip install ethnicolr==0.2.0
 %pip install fancyimpute==0.4.3
