@@ -15,7 +15,7 @@ nltk.download('stopwords')
 # Load the data
 @st.cache  # Cache the data for faster loading
 def load_data():
-    return pd.read_csv('rows.csv')
+    return pd.read_csv('row2.csv')
 
 df = load_data()
 
