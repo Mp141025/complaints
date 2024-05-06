@@ -153,7 +153,7 @@
 %pip install geoviews==1.6.1
 %pip install gevent==1.3.0
 %pip install ggplot==0.11.5
-%pip install glmnet-py==0.1.0b2
+# %pip install glmnet-py==0.1.0b2
 %pip install glob2==0.6
 %pip install gluoncv==0.4.0.post0
 %pip install gluonnlp==0.6.0
@@ -198,7 +198,7 @@
 %pip install imagehash==4.0
 %pip install imageio==2.3.0
 %pip install imagesize==1.0.0
-%pip install imbalanced-learn==0.5.0.dev0
+# %pip install imbalanced-learn==0.5.0.dev0
 %pip install imgaug==0.2.8
 %pip install implicit==0.3.8
 %pip install ipykernel==4.8.2
@@ -456,7 +456,7 @@
 %pip install resampy==0.2.1
 %pip install retrying==1.3.3
 %pip install revrand==0.6.5
-%pip install rf-perm-feat-import==0.1
+# %pip install rf-perm-feat-import==0.1
 %pip install rgf-python==3.5.0
 %pip install rope==0.10.7
 %pip install rsa==4.0
@@ -529,7 +529,7 @@
 %pip install textacy==0.6.2
 %pip install textblob==0.15.3
 %pip install tflearn==0.3.2
-%pip install theano==1.0.4+10.g9feed7868
+# %pip install theano==1.0.4+10.g9feed7868
 %pip install thinc==7.0.4
 %pip install tifffile==2019.3.18
 %pip install tinycss2==1.0.2
