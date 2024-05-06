@@ -1,3 +1,8 @@
+!pip install nltk==3.8.1
+!pip install pandas==2.0.3
+!pip install scikit_learn==1.3.2
+!pip install streamlit==1.34.0
+
 import streamlit as st
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
